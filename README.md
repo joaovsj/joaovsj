@@ -11,7 +11,7 @@
 > - [AMS-CPS](https://www.jorgestreet.com.br/cursos/mtec-desenvolvimento-de-sistemas/)
 
 
-Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um ___Link de um vídeo na documentação___ apresentando <br> os projetos para você não ter a necessidade de perder tempo instalando! 
+Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um ___Link de um vídeo na <br>  documentação___ apresentando os projetos para você não ter a necessidade de perder tempo instalando! 
 
 See You! 
 
