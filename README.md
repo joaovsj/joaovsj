@@ -1,10 +1,7 @@
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN4dTlpNnlsNG1xM3d5eGx3OGszaGs4aWE1NTZhOGRpYzhnNTdtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krkrHAEodHgzP72rTI/giphy.gif" height="150px" width="250px" align="right">  
-
-
 <h3 align="center">Hey Guys! What's up? 👋</h3>    
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN4dTlpNnlsNG1xM3d5eGx3OGszaGs4aWE1NTZhOGRpYzhnNTdtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krkrHAEodHgzP72rTI/giphy.gif" height="150px" width="250px" align="right">  
 <hr align="center">
-
  Eu me chamo João Victor, estou no meu 4º ano estudando Programação. Tenho o prazer de fazer parte de um projeto do 
  Centro de Educação Técnológica Paula Souza chamado **AMS** que é uma expansão do programa **P-TECH** da IBM aplicado em vários países. 
  Você pode conferir um pouco sobre ele abaixo!
@@ -12,7 +9,7 @@
 > - [P-TECH](https://www.ibm.com/blogs/ibm-comunica/ibm-e-cps/)
 > - [AMS-CPS](https://www.jorgestreet.com.br/cursos/mtec-desenvolvimento-de-sistemas/)
 
-Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um Link de um vídeo apresentando os projetos para você não ter a necessidade de perder tempo instalando! 
+Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um Link de um vídeo apresentando <br> os projetos para você não ter a necessidade de perder tempo instalando! 
 
 See You! 
 
