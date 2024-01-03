@@ -9,6 +9,7 @@
 
 > - [P-TECH](https://www.ibm.com/blogs/ibm-comunica/ibm-e-cps/)
 > - [AMS-CPS](https://www.jorgestreet.com.br/cursos/mtec-desenvolvimento-de-sistemas/)
+> - [PORTFÓLIO](https://joaojesus.netlify.app)
 
 
 Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um ___Link de um vídeo na <br>  documentação___ apresentando os projetos para você não ter a necessidade de perder tempo instalando! 
