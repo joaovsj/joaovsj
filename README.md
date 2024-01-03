@@ -4,7 +4,7 @@
 <hr align="center">
  Meu nome é João como você com certeza pode notar,  estou no meu 4º ano estudando Programação. Tenho o prazer de fazer parte de um projeto do 
  Centro de Educação Tecnológica Paula Souza chamado AMS que é uma expansão do programa P-TECH da IBM aplicado em vários países. 
- Você pode conferir um pouco sobre  ele abaixo! <br>
+ Você pode conferir um pouco sobre ele ou ver o meu portfólio nos seguintes links abaixo: <br>
 <br>
 
 > - [P-TECH](https://www.ibm.com/blogs/ibm-comunica/ibm-e-cps/)
