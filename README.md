@@ -2,7 +2,7 @@
 <h3 align="center">Hey Guys! What's up? 👋</h3>    
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN4dTlpNnlsNG1xM3d5eGx3OGszaGs4aWE1NTZhOGRpYzhnNTdtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krkrHAEodHgzP72rTI/giphy.gif" height="150px" width="250px" align="right">  
 <hr align="center">
- Meu nome é João como você com certeza pode notar,  estou no meu 4º ano estudando Programação. Tenho o prazer de fazer parte de um projeto do 
+ Bem vindo ao meu repositório, meu nome é João estou no meu 5º ano estudando Programação. Tenho o prazer de fazer parte de um projeto do 
  Centro de Educação Tecnológica Paula Souza chamado AMS que é uma expansão do programa P-TECH da IBM aplicado em vários países. 
  Você pode conferir um pouco sobre ele ou ver o meu portfólio nos seguintes links abaixo: <br>
 <br>
