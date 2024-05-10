@@ -20,11 +20,14 @@ Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um
   <img align="center" alt="Joao-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
   <img align="center" alt="Joao-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
   <img align="center" alt="Joao-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp;
+  <img align="center" alt="Joao-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> &nbsp;
   <img align="center" alt="Joao-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />   &nbsp; 
   <img align="center" alt="Joao-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
   <img align="center" alt="Joao-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> &nbsp;
   <img align="center" alt="Joao-Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> &nbsp;
-  <img align="center" alt="Joao-Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+  <img align="center" alt="Joao-Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" /> &nbsp;
+  <img align="center" alt="Joao-GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
           
 </div>
 
@@ -32,7 +35,7 @@ Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um
 
 
 
-See You! 
+So, See You! 
 
 
 
