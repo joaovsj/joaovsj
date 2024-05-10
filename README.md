@@ -7,10 +7,14 @@
  Você pode conferir um pouco sobre ele ou ver o meu portfólio nos seguintes links abaixo: <br>
 <br>
 
+<div> 
+  <a href="https://www.linkedin.com/in/joao-victor-silva-de-jesus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joaosilva.jesus90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div> <br>
+
 > - [P-TECH](https://www.ibm.com/blogs/ibm-comunica/ibm-e-cps/)
 > - [AMS-CPS](https://www.jorgestreet.com.br/cursos/mtec-desenvolvimento-de-sistemas/)
 > - [PORTFÓLIO](https://joaojesus.netlify.app)
-
 
 Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um ___Link de um vídeo na <br>  documentação___ apresentando os projetos para você não ter a necessidade de perder tempo instalando! So, See You! 
 
