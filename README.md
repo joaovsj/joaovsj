@@ -12,9 +12,11 @@
 > - [PORTFÓLIO](https://joaojesus.netlify.app)
 
 
-Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um ___Link de um vídeo na <br>  documentação___ apresentando os projetos para você não ter a necessidade de perder tempo instalando! 
+Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um ___Link de um vídeo na <br>  documentação___ apresentando os projetos para você não ter a necessidade de perder tempo instalando! So, See You! 
+
 
 <div style="display: inline_block" align="center"><br>
+  Stacks <br> <br>
   <img align="center" alt="Joao-Laravel" height="40" width="40" src="img/laravel.png"> &nbsp;
   <img align="center" alt="Joao-Angular" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> &nbsp;       
   <img align="center" alt="Joao-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
@@ -26,19 +28,19 @@ Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um
   <img align="center" alt="Joao-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
   <img align="center" alt="Joao-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> &nbsp;
   <img align="center" alt="Joao-Csharp" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> &nbsp;
-  <img align="center" alt="Joao-Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> &nbsp;
-  <img align="center" alt="Joao-Composer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" /> &nbsp;        
-  <img align="center" alt="Joao-Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" /> &nbsp;
-  <img align="center" alt="Joao-GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> 
-          
-          
-</div>
+</div> 
 
 <br>
-
-
-
-So, See You! 
+ 
+<div style="display: inline_block" align="center">  
+ Tools <br> <br>
+  <img align="center" alt="Joao-NPM" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /> &nbsp;
+  <img align="center" alt="Joao-Composer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" /> &nbsp;        
+  <img align="center" alt="Joao-Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" /> &nbsp;
+  <img align="center" alt="Joao-Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> &nbsp;
+  <img align="center" alt="Joao-GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> 
+  <img align="center" alt="Joao-Laravel" height="40" width="40" src="img/power-bi-icon.webp"> &nbsp;
+</div>
 
 
 
