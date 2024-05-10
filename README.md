@@ -38,7 +38,7 @@ Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um
   <img align="center" alt="Joao-Composer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" /> &nbsp;        
   <img align="center" alt="Joao-Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" /> &nbsp;
   <img align="center" alt="Joao-Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> &nbsp;
-  <img align="center" alt="Joao-GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> 
+  <img align="center" alt="Joao-GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;
   <img align="center" alt="Joao-Laravel" height="40" width="40" src="img/power-bi-icon.webp"> &nbsp;
 </div>
 
