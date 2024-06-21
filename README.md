@@ -12,6 +12,7 @@
   <a href = "mailto:joaosilva.jesus90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> <br>
 
+> - [PORTFOLIO](https://joaovictorsilva.netlify.app/)
 > - [P-TECH](https://www.ibm.com/blogs/ibm-comunica/ibm-e-cps/)
 > - [AMS-CPS](https://www.jorgestreet.com.br/cursos/mtec-desenvolvimento-de-sistemas/)
 
