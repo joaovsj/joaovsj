@@ -1,26 +1,30 @@
 
 <!-- <h3 align="center">Hi Guys! How's it going? 👋</h3>     -->
+![João Victor Banner Image](./img/banner.png)
 
+
+<!-- 
 <img src="img/banner.png">
-<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN4dTlpNnlsNG1xM3d5eGx3OGszaGs4aWE1NTZhOGRpYzhnNTdtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krkrHAEodHgzP72rTI/giphy.gif" height="150px" width="250px" align="right">  
 
--->
-<hr align="center">
-
-
- Bem vindo ao meu repositório, meu nome é João estou no meu 5º ano estudando Programação. Tenho o prazer de fazer parte de um projeto do 
- Centro de Educação Tecnológica Paula Souza chamado AMS que é uma expansão do programa P-TECH da IBM aplicado em vários países. 
- Você pode conferir um pouco sobre ele ou ver o meu portfólio nos seguintes links abaixo: <br>
-<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN4dTlpNnlsNG1xM3d5eGx3OGszaGs4aWE1NTZhOGRpYzhnNTdtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krkrHAEodHgzP72rTI/giphy.gif" height="150px" width="250px" align="right">  
 
 <div> 
   <a href="https://www.linkedin.com/in/joao-victor-silva-de-jesus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joaosilva.jesus90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> <br>
 
+
+
 > - [PORTFOLIO](https://joaovictorsilva.netlify.app/)
 > - [P-TECH](https://www.ibm.com/blogs/ibm-comunica/ibm-e-cps/)
 > - [AMS-CPS](https://www.jorgestreet.com.br/cursos/mtec-desenvolvimento-de-sistemas/)
+
+
+-->
+
+### Acesse meu Portfolio Clicando [AQUI! 👋 ](https://joaovictorsilva.netlify.app/)
+
+
 
 Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um ___Link de um vídeo na <br>  documentação___ apresentando os projetos para você não ter a necessidade de perder tempo instalando! So, See You! 
 
