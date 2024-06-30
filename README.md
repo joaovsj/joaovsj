@@ -23,8 +23,7 @@ Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um
 
 -->
 
-### Acesse meu Portfolio Clicando [AQUI! 👋 ](https://joaovictorsilva.netlify.app/)
-
+### Acesse meu Portfolio Clicando [AQUI! 👋 ](https://joaovictorsilva.com.br)
 
 
 
