@@ -1,7 +1,11 @@
 
-<!-- <h3 align="center">Hi Guys! How's it going? 👋</h3>     -->
-![João Victor Banner Image](./img/banner.png)
+<!-- <h3 align="center">Hi Guys! How's it going? 👋</h3>   ![João Victor Banner Image](./img/banner.png)  -->
 
+<div style="display: inline_block" align="center">
+<img src="https://github.com/joaovsj/joaovsj/blob/main/img/Purple%20Gradient%20Abstract%20And%20Modern%20YouTube%20Intro%20Video%20(1).gif" height="400px" width="800px" align="center"> 
+</div>
+
+</br> </br>
 
 <!-- 
 <img src="img/banner.png">
