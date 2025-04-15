@@ -64,7 +64,8 @@ Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um
   <img align="center" alt="Joao-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" alt="Joao-Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="center" alt="Joao-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-          
+  <img align="center" alt="Joao-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+                
           
   </div>
 <br> 
