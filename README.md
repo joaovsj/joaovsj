@@ -55,6 +55,16 @@ Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um
 </div> 
 
 <br>
+<div style="display: inline_block" align="center">  
+
+
+
+  **Studing a lot!!** 
+  
+  <img align="center" alt="Joao-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+          
+  </div>
+<br> 
  
 <div style="display: inline_block" align="center">  
  Tools <br> <br>
