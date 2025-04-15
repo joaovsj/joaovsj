@@ -2,7 +2,7 @@
 <!-- <h3 align="center">Hi Guys! How's it going? 👋</h3>   ![João Victor Banner Image](./img/banner.png)  -->
 
 <div style="display: inline_block" align="center">
-<img src="./img/background.gif" height="400px" width="800px" align="center"> 
+<!-- <img src="./img/background.gif" height="400px" width="800px" align="center">  -->
 </div>
 
 </br> </br>
@@ -62,6 +62,9 @@ Fique a vontade pra dá um ***zóio*** 👀 nos repositórios, alguns possuem um
   **Studing a lot!!** 
   
   <img align="center" alt="Joao-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img align="center" alt="Joao-Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+          
           
   </div>
 <br> 
