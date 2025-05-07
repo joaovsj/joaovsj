@@ -63,7 +63,7 @@
   <img align="center" alt="Joao-Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" /> &nbsp;
   <img align="center" alt="Joao-Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> &nbsp;
   <img align="center" alt="Joao-GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;
-  <img align="center" alt="Joao-PowerBI" height="40" width="40" src="img/power-bi-icon.webp"> &nbsp;
+  <img align="center" alt="Joao-PowerBI" height="40" width="40" src="https://raw.githubusercontent.com/joaovsj/joaovsj/refs/heads/main/img/power-bi-icon.webp"> &nbsp;
 </div>
 
 
