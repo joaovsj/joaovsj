@@ -23,7 +23,7 @@
   **Stacks**
 </div>
 <div style="display: inline_block" align="center">
-  <img align="center" alt="Joao-Laravel" height="40" width="40" src="img/laravel.png"> &nbsp;
+  <img align="center" alt="Joao-Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"> &nbsp;
   <img align="center" alt="Joao-Angular" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> &nbsp;
   <img align="center" alt="Joao-Rxjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" /> &nbsp;
   <img align="center" alt="Joao-Java" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> &nbsp;
